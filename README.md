@@ -1,4 +1,4 @@
-- 👋 Hi, We are @MBBL-UAAAN 
+- 👋 Hi, We are @MBBL-UAAAN Molecular Bioengineering and Bioinformatics Laboratory
 - 👀 We are interested in developing bioiformatics pipelines to study functional genomics, molecular bioengeneering, and pathogen molecular biology
 - 🌱 We are currently working in developing emerging-pathogen molecular diagnostics by exploring sequence databases
 - 💞️ We are looking to collaborate with anyone who is interested in those topics.
